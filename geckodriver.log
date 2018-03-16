@@ -1,0 +1,1415 @@
+1520426777390	geckodriver	INFO	geckodriver 0.19.1
+1520426777395	geckodriver	INFO	Listening on 127.0.0.1:4196
+1520426780497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.MVlyrf9iG8fX"
+1520426781071	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 38620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520426782042	Marionette	INFO	Listening on port 4208
+1520426782522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520426782603	Marionette	DEBUG	Register listener.js for window 4294967297
+1520426782929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520426784257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520426784257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520426785192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520426788151	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520426788533	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520426790386	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520426790387	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520426791511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520426794968	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520426795035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520426795659	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520426795662	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520426795784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520426795785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520426795869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426798600	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426798608	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426799141	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426799142	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426799265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520426799265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520426799334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_DBA?px=default"
+1520426806790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_DBA?px=default"
+1520426810146	geckodriver	INFO	geckodriver 0.19.1
+1520426810155	geckodriver	INFO	Listening on 127.0.0.1:4379
+1520426813263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.LC672gccCmgL"
+1520426813962	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 38500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520426815012	Marionette	INFO	Listening on port 4500
+1520426815289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520426815388	Marionette	DEBUG	Register listener.js for window 4294967297
+1520426815419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520426816463	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520426816463	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520426820940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520426823645	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520426824041	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520426825855	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520426825857	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520426827589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520426831937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520426832001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520426834245	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520426834249	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520426834403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520426834403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520426834495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426950576	geckodriver	INFO	geckodriver 0.19.1
+1520426950582	geckodriver	INFO	Listening on 127.0.0.1:5028
+1520426969957	geckodriver	INFO	geckodriver 0.19.1
+1520426969968	geckodriver	INFO	Listening on 127.0.0.1:5061
+1520426973094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.rVanK1yUUtHp"
+1520426974121	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520426975142	Marionette	INFO	Listening on port 5073
+1520426976221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520426976287	Marionette	DEBUG	Register listener.js for window 4294967297
+1520426976506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520426977588	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520426977588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520426978510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520426981695	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520426982067	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520426984300	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520426984304	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520426985670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520426990351	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520426990452	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520426991126	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520426991128	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520426991218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520426991218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520426991305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426992723	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426992746	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426993215	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426993217	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520426993370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520426993370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520426993388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520426994960	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 36432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 36432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 27464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ DOM event "pagehide" for "about:blank"
+1520427006086	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520427006712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520427009562	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520427009960	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520427012082	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520427012085	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520427013462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520427016903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520427016967	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520427017679	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520427017683	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520427017785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520427017785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520427017890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427019491	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427019528	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427019956	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427019961	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427020034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520427020035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520427020143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520427021581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+[Parent 38488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 38488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 38120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+24	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520427607575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520427610440	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520427610852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520427619076	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520427620208	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520427620208	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520427621330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520427625277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520427630642	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520427631155	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520427631158	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520427631290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1520427631291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1520427631358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520427635467	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+[Parent 32932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 32932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 37248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520427934333	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520427937517	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520427939406	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520427939408	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520427940955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520427948001	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520427970262	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520427970798	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520427970800	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520427970891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520427970891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520427970998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427974867	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427978443	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427978976	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427978980	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520427979060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520427979061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520427979181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520427980053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 33496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 33496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 24512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t "unload" for "about:blank"
+1520428154481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520428157862	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520428158192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520428160389	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.lagou.com/, line 4514: ReferenceError: require is not defined
+JavaScript error: https://www.lgstatic.com/www/static/pkg/index/page/index/main.html_aio_b1a1945.js, line 2: ReferenceError: define is not defined
+JavaScript error: https://www.lgstatic.com/www/static/pkg/widgets_120b982.js, line 2: ReferenceError: jQuery is not defined
+1520428160938	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520428160938	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520428161613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520428163686	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520428170520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520428170945	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520428170948	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520428171072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1520428171072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1520428171114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520428171943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 38488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 38488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 37476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Received DOM event "unload" for "https://www.lagou.com/"
+1520428339623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520428339623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520428340149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428341836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428353042	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428354303	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428354307	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428354402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520428354403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520428354518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520428356464	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 34476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 34220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s for window 4294967297
+1520428515097	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520428518183	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520428518184	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520428519234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520428522241	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520428522535	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520428524020	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520428524023	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520428524450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/lagouhtml/a52.html"
+1520428524538	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/lagouhtml/a52.html"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 24696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520428621583	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520428622011	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520428623802	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520428623805	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520428625363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520428648679	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520428648776	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520428651142	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520428651143	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520428651259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520428651259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520428651323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428652864	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428656965	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428657451	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428657454	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520428657594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520428657594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520428657696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520428658926	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+[Parent 39312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 37996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 39516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520429043799	geckodriver	INFO	geckodriver 0.19.1
+1520429043804	geckodriver	INFO	Listening on 127.0.0.1:13459
+1520429046921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.HiORp3cqLg3A"
+1520429047544	Marionette	INFO	Enabled via --marionette
+1520429049096	Marionette	INFO	Listening on port 13473
+1520429050051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520429050141	Marionette	DEBUG	Register listener.js for window 4294967297
+1520429277521	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520429278830	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520429278830	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520429279867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520429282751	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520429410166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429427950	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520429428551	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520429428554	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520429428666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520429428666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520429428750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429431155	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429490223	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429490810	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429490812	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429490937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520429490937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520429490978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520429491945	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 39116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 39020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ DOM event "pagehide" for "about:blank"
+1520429686492	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520429688019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520429691744	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520429692035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520429694058	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520429694058	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520429695500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520429700357	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520429700457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520429701180	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520429701182	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520429701289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520429701290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520429701960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429703238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429747277	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429747899	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429747905	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520429748070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520429748070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520429748148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_python?px=default"
+1520429750182	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_python?px=default"
+1520429755424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429760633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429765702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429770923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429776137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429781326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429786807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429791938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429797125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429802315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429807543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429812632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429817760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429822870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429827915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429832905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429838060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429843227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429848479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429853626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429858886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429864052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429870303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429875689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429881066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429886357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429891795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429897161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520429902723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 32372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 32372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520430023574	geckodriver	INFO	geckodriver 0.19.1
+1520430023590	geckodriver	INFO	Listening on 127.0.0.1:10806
+1520430026695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.Tsik9VKmXK1T"
+1520430027658	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520430028650	Marionette	INFO	Listening on port 10818
+1520430028714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520430028760	Marionette	DEBUG	Register listener.js for window 4294967297
+1520430028783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520430030062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520430030063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520430031076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520430034210	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520430034531	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520430037145	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520430037150	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520430039346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520430046469	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520430046524	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520430047836	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520430047840	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520430047969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520430047969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520430048081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520430058823	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520430058845	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520430059456	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520430059458	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_hzc?labelWords=&fromSearch=true&suginput="
+1520430059601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1520430059602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1520430059711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520430063165	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520430067467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430072111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430076217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430080676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430084862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430089221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430093534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430097860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430102184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430106612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430110955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430115286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430119680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430124032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430128764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430133239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430137719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430142343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430147003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430151589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430156235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430161027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430165692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430170389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430175080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430179892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430184742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430189638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430194517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 39572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 30588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520430210277	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520430210637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430213792	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.lagou.com/, line 5193: ReferenceError: require is not defined
+JavaScript error: https://www.lgstatic.com/www/static/pkg/index/page/index/main.html_aio_b1a1945.js, line 2: ReferenceError: define is not defined
+1520430214238	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520430214238	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520430215026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520430217546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520430217576	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520430218522	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520430218526	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/jobs/list_?labelWords=&fromSearch=true&suginput="
+1520430218617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1520430218618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1520430218794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520430220852	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520430224982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430229286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430233547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430237752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430242129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430246490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430250917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430255212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430260249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430264750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430269405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430273911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430278968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430283361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430287908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430292372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430296894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430301584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430306089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430310650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430315372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430319984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430324829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430329549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430334301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430339015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430343721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430348827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520430353625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 38620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 37000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520488280088	geckodriver	INFO	geckodriver 0.19.1
+1520488280099	geckodriver	INFO	Listening on 127.0.0.1:11897
+1520488283364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.UI0NKk85BrUA"
+1520488284734	Marionette	INFO	Enabled via --marionette
+1520488285954	Marionette	INFO	Listening on port 11909
+1520488286486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520488286549	Marionette	DEBUG	Register listener.js for window 4294967297
+1520488286561	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520488287672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520488287672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520488289115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520488292240	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520488292657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488296811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520488297525	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520488297526	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520488298428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520488301089	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520488305317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488309842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488314622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488318752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488322999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488327418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488331628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488336097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488340845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488345572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488350215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488354373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488358815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488363480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488367946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488372739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488377251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488381539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488385808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488390139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488394550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488398976	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488403620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488408261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488412894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488417420	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488421908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488426113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488430695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 39616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mon/ipc_channel_win.cc, line 346
+1520488440272	Marionette	INFO	Listening on port 5831
+1520488440374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520488440415	Marionette	DEBUG	Register listener.js for window 4294967297
+1520488440431	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520488441431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520488441432	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520488443025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520488445770	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520488446100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488449246	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520488450142	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520488450142	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520488451138	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520488454164	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520488458629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488463678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488467927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520488472120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 36264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 33224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520498120518	geckodriver	INFO	geckodriver 0.19.1
+1520498120525	geckodriver	INFO	Listening on 127.0.0.1:4215
+1520498123784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.vOizU7vziFib"
+1520498125068	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 25860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498126223	Marionette	INFO	Listening on port 4228
+1520498126906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498126942	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498126980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498127910	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498127911	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498128459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498131045	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520498131385	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520498133688	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520498133690	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520498134526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520498137653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520498140548	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520498141054	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520498141056	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520498141177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520498141177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520498141261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%B8%8A%E6%B5%B7"
+1520498142250	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%B8%8A%E6%B5%B7"
+1520498173476	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498177885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498182751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498187271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498192041	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498196278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498200795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498205636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498210250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498214722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498219542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498223999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498228419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498233100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 34096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520498236116	geckodriver::marionette	ERROR	Failed to kill browser process
+1520498236795	geckodriver	INFO	geckodriver 0.19.1
+1520498236802	geckodriver	INFO	Listening on 127.0.0.1:8102
+1520498240027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.jj66NtdHzNKq"
+1520498240893	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 37180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498241850	Marionette	INFO	Listening on port 8114
+1520498242053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498242085	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498242106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498242958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498242958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498243581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498246251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 37180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 37180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498414765	geckodriver	INFO	geckodriver 0.19.1
+1520498414771	geckodriver	INFO	Listening on 127.0.0.1:8802
+1520498426712	geckodriver	INFO	geckodriver 0.19.1
+1520498426718	geckodriver	INFO	Listening on 127.0.0.1:8826
+1520498429839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.CNFw7k1kuRAW"
+1520498430684	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498431702	Marionette	INFO	Listening on port 8838
+1520498431920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498431982	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498432013	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498432835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498432835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498433372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498436199	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520498436541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498446302	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520498447161	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520498447165	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520498447386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520498447386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520498447404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520498448528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8C%97%E4%BA%AC"
+1520498453206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498457698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498462201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498466580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498470879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498475199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498480080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498485146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498489609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498494480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498498932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498503299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498507536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498511818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498516323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498520769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498525139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498529995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498534387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498538862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498543359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498547949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498552473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498557053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498561853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498566536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498571160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498575881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498580600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498585356	geckodriver	INFO	geckodriver 0.19.1
+1520498585362	geckodriver	INFO	Listening on 127.0.0.1:2820
+1520498588445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.ZDZXG1OEbxIq"
+1520498589066	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 37120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498590125	Marionette	INFO	Listening on port 2833
+1520498590459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498590498	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498590509	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498591359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498591359	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498591882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498594746	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520498594998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520498597306	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520498597306	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520498598133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520498647332	geckodriver	INFO	geckodriver 0.19.1
+1520498647338	geckodriver	INFO	Listening on 127.0.0.1:3107
+1520498650461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.93iXfoc1MP1h"
+1520498651113	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXG[GFX1-]: Could not get a DI adapter
+XGI adapter
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498652309	Marionette	INFO	Listening on port 3162
+[GFX1-]: Could not get a DXGI adapter
+1520498652487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498652523	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498652538	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498653406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498653406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498653938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498656849	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520498657170	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520498660225	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520498660230	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520498661070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520498664045	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520498665973	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520498666434	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520498666436	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520498666522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520498666522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520498666875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%B8%8A%E6%B5%B7"
+1520498668078	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%B8%8A%E6%B5%B7"
+1520498672560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498677313	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498681751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498686219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498690610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498695067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498699690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498704309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498709390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498714013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498718766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498724091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498728793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498733389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498738027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498743159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498748060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498752652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498757612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498762730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498768015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498772839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498777972	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498783027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498787925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498792931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498798067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498803191	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498808338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498813109	geckodriver	INFO	geckodriver 0.19.1
+1520498813116	geckodriver	INFO	Listening on 127.0.0.1:11239
+1520498816259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.0fT7rEH4U69X"
+1520498817222	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 32356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498818153	Marionette	INFO	Listening on port 11251
+1520498818380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498818416	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498818426	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498819611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498819611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498820164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498839145	geckodriver	INFO	geckodriver 0.19.1
+1520498839151	geckodriver	INFO	Listening on 127.0.0.1:11440
+1520498842305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.o4L6SIDRzGPZ"
+1520498843279	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 31516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520498844236	Marionette	INFO	Listening on port 11454
+1520498844449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520498844482	Marionette	DEBUG	Register listener.js for window 4294967297
+1520498844496	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520498845501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520498845501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520498846119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520498848948	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520498849233	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520498851575	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520498851576	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520498852549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520498855673	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520498872838	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520498873266	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520498873268	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520498873360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520498873360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520498873467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%B9%BF%E5%B7%9E"
+1520498875396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%B9%BF%E5%B7%9E"
+1520498879790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498884252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498889229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498893623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498897967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498902269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498906945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498912001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498916780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498921192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498925527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498929854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498934226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498938716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498943123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498947614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498952101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498956577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498961064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498965732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498970301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498975078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498980032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520498984978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 31516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 31516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 39612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d" for "4294967297"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 31712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520499019714	geckodriver	INFO	geckodriver 0.19.1
+1520499019723	geckodriver	INFO	Listening on 127.0.0.1:4391
+1520499022792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.LTt8VAo3aJCB"
+1520499023563	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499024937	Marionette	INFO	Listening on port 4403
+1520499025908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499025952	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499025970	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499027052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499027052	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499027956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499030632	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499030871	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520499032884	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520499032885	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520499035023	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520499043871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520499053119	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499054113	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499054116	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499054214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520499054215	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520499054337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%B7%B1%E5%9C%B3"
+1520499055966	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%B7%B1%E5%9C%B3"
+1520499060314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499064624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499069036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499073426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499077949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499082336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499086710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499091108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499095371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499099949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499104381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499108562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499112981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499117305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499121797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499126437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499130887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499135302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499139802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499144201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499148798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499153298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499157909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499162797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499167626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499172459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499177223	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499182075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499186815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 28680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499200500	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 34764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 39092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 21440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499222940	geckodriver	INFO	geckodriver 0.19.1
+1520499222946	geckodriver	INFO	Listening on 127.0.0.1:12744
+1520499226017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.qNSDV84enXev"
+1520499226675	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499227752	Marionette	INFO	Listening on port 12759
+1520499228032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499228072	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499228084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499229111	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499229112	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499229658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499232442	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499232685	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520499234722	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520499234722	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520499235779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520499239613	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520499243449	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499244125	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499244127	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499244228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520499244229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520499245003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%9D%AD%E5%B7%9E"
+1520499246113	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%9D%AD%E5%B7%9E"
+1520499250381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499254762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499259114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499263549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499268102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499272518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499277034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499286448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499294809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499302651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499313906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499320312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499324797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499329213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499333621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499338087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499342690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499347239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499351775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499356455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499361070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499365682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499370465	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499375195	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499380089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499385186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499390158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499395103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499400181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 38204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 38204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 35536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499410917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1520499410940	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499433970	geckodriver	INFO	geckodriver 0.19.1
+1520499433977	geckodriver	INFO	Listening on 127.0.0.1:7338
+1520499437065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.rUgvppwuXW9K"
+1520499437712	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499439020	Marionette	INFO	Listening on port 7354
+1520499439089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499439137	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499439185	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499442774	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499442775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499444579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499448186	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499448498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499452544	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499453256	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499453256	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499454432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%88%90%E9%83%BD"
+1520499459624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%88%90%E9%83%BD"
+1520499463971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499468326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499472700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499477106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499481585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499485985	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499490457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499494965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499499513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499504053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499508638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499513017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499517414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499521827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499526287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499530766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499535187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499539640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499544123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499548696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499553197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499557588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499561979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499566409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499570817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499575238	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499579828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499584475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499589102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 38024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 33900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+event "beforeunload" for "about:blank"
+1520499599511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499599511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499599512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1520499599537	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+[Parent 41436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 41436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499626933	geckodriver	INFO	geckodriver 0.19.1
+1520499626940	geckodriver	INFO	Listening on 127.0.0.1:1553
+1520499630020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.I4Zjgdf9oOC3"
+1520499630692	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499631885	Marionette	INFO	Listening on port 1568
+1520499632057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499632111	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499632136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499632856	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499632856	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499633571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499639621	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499639923	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520499644935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499645967	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499647354	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499647354	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499648657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%98%86%E6%98%8E"
+1520499653224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%98%86%E6%98%8E"
+1520499657624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499662015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 40908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 34956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+notification "outer-window-destroyed" for "4294967297"
+1520499671340	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 39860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 33876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 38568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499686081	geckodriver	INFO	geckodriver 0.19.1
+1520499686088	geckodriver	INFO	Listening on 127.0.0.1:2457
+1520499689171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.Df3zM7vbnR8D"
+1520499689816	Marionette	INFO	Enabled via --marionette
+1520499691149	Marionette	INFO	Listening on port 2469
+1520499691194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499691238	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499691252	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499691999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499691999	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499694573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499697369	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499697686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499700728	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499701666	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499701666	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499703067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%BA%91%E5%8D%97"
+1520499704639	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E4%BA%91%E5%8D%97"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 28408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 40976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 30728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520499778359	geckodriver	INFO	geckodriver 0.19.1
+1520499778366	geckodriver	INFO	Listening on 127.0.0.1:2938
+1520499781461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.BxI8r7kinRtE"
+1520499782091	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499783733	Marionette	INFO	Listening on port 2950
+[GFX1-]: Could not get a DXGI adapter
+1520499784586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499784655	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499784671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499785387	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499785387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499786091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499788958	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499789329	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520499791940	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520499791941	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520499792596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/"
+1520499796668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/"
+1520499796703	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499797349	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499797352	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499797454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1520499797454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520499797548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8D%97%E4%BA%AC"
+1520499798501	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E5%8D%97%E4%BA%AC"
+1520499803219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499807486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499811784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499816198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499820455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499824872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499829604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499833970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499838543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499843082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499847739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499852224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499856931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499861543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499866118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499870689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499875256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499879919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499884731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499889457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499894511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499899492	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499904317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499909261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 40180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 40180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 40160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 41428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+EBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 24088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499946899	geckodriver	INFO	geckodriver 0.19.1
+1520499946905	geckodriver	INFO	Listening on 127.0.0.1:9682
+1520499950014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\willd\\AppData\\Local\\Temp\\rust_mozprofile.HxsjJjOZSfYw"
+1520499951182	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520499952192	Marionette	INFO	Listening on port 9697
+1520499952471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520499952504	Marionette	DEBUG	Register listener.js for window 4294967297
+1520499952515	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520499953237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520499953237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520499953813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520499956754	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520499957134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499960217	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.lagou.com/"
+1520499961017	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.lagou.com/"
+1520499961017	Marionette	DEBUG	Received DOM event "unload" for "https://www.lagou.com/"
+1520499961324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1520499961344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%AD%A6%E6%B1%89"
+1520499963103	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.lagou.com/jobs/list_java?px=default&city=%E6%AD%A6%E6%B1%89"
+1520499967544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499971794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499975983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499980363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499984755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499989090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499993825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520499998224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500002636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500007121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500011562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500015902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500020442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500025333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500029994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500034252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500038609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500042948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500047289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500051594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500055882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500060225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500064466	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500068758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500073073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500077329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500081627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500085948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1520500090339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 35372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ window 4294967297
+1520500099693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520500100471	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520500100471	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520500101031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.lagou.com/login/login.html"
+1520500103933	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.lagou.com/login/login.html"
+1520500104229	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520500105010	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.lagou.com/login/login.html"
+1520500105027	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.lagou.com/login/login.html"
+1520500105028	Marionette	DEBUG	Received DOM event "unload" for "https://passport.lagou.com/login/login.html"
+1520500105031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 32776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\willd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
