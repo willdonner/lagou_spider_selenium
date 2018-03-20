@@ -132,7 +132,7 @@ class Lagou(object):
         salary = salary  # ((wy_edu.replace(" ", "/")).split('/')[0]).strip()
         workyear = ((wy_edu.replace(" ", "/")).split('/')[1]).strip()
         education = ((wy_edu.replace(" ", "/")).split('/')[4]).strip()
-        city = "武汉"
+        city = "昆明"
         district = ((citydist + '·' + citydist).split('·')[1]).strip()
         industryfield = (fina_ind.split('/')[0]).strip()
         financestage = (fina_ind.split('/')[1]).strip()
@@ -147,16 +147,15 @@ class Lagou(object):
 
         self.mssql.ExecNonQuery(sql)
 
-        """ 
-        print("companyfullname = " + companyfullname) 
-        print("positionname = " + positionname) 
-        print("salary = " + salary) 
-        print("workyear = " + workyear) 
-        print("education = " + education) 
-        print("city = " + city) 
-        print("district = " + district) 
-        print("industryfield = " + industryfield) 
-        print("financestage = " + financestage) 
-        print("firsttype = " + firsttype) 
-        print("positionlables = " + positionlables) 
-        """
+
+        print("companyfullname = " + companyfullname)
+        print("positionname = " + positionname)
+        print("salary = " + salary)
+        print("workyear = " + workyear)
+        print("education = " + education)
+        print("city = " + city)
+        print("district = " + district)
+        print("industryfield = " + industryfield)
+        print("financestage = " + financestage)
+        print("firsttype = " + firsttype)
+        print("positionlables = " + positionlables)
