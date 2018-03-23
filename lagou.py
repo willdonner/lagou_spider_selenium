@@ -147,16 +147,16 @@ class Lagou(object):
 
         self.mssql.ExecNonQuery(sql)
 
-        """ 
-        print("companyfullname = " + companyfullname) 
-        print("positionname = " + positionname) 
-        print("salary = " + salary) 
-        print("workyear = " + workyear) 
-        print("education = " + education) 
-        print("city = " + city) 
-        print("district = " + district) 
-        print("industryfield = " + industryfield) 
-        print("financestage = " + financestage) 
-        print("firsttype = " + firsttype) 
-        print("positionlables = " + positionlables) 
-        """
+        # """
+        # print("companyfullname = " + companyfullname)
+        # print("positionname = " + positionname)
+        # print("salary = " + salary)
+        # print("workyear = " + workyear)
+        # print("education = " + education)
+        # print("city = " + city)
+        # print("district = " + district)
+        # print("industryfield = " + industryfield)
+        # print("financestage = " + financestage)
+        # print("firsttype = " + firsttype)
+        # print("positionlables = " + positionlables)
+        # """
