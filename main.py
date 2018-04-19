@@ -37,7 +37,7 @@ class Main(unittest.TestCase):
 
     # 详细搜索页面，格式：(岗位,工作城市,工作经验,学历要求,融资阶段,行业领域,月薪范围)
     # mydriver.doDetailSearch("dba","深圳","3-5年","本科","未融资","移动互联网","15k-25k")
-    mydriver.doDetailSearch("java", "武汉", "", "", "", "", "")
+    mydriver.doDetailSearch("java", "深圳", "", "", "", "", "")
 
     print("[4] " + driver.current_url)
 
